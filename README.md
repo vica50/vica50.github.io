@@ -42,7 +42,7 @@
 </head>
 <body>
     <h1>Välkommen till Vicas Personliga Sida!</h1>
-    <p>Hej där, jag är Vica (även känd som Vica50). Jag gillar spel som Splatoon och Pikmin. Min favoritfärg är regnbågig rgb.</p>
+    <p>Hej där, jag är Vica (även känd som Vica50). Jag gillar spel som Splatoon och Pikmin. Min favoritfärg är radianta färger.</p>
     <p>Tveka inte att koppla upp dig med mig på mina sociala medieprofiler!</p>
     <p><a href="https://www.youtube.com/channel/UC5J7iLq-KJJmet_zUt1QOaQ">Youtube</a></p>
     <p><a href="https://www.twitch.tv/vica50">Twitch</a></p>
