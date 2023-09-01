@@ -4,40 +4,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vicas Personliga Sida</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: linear-gradient(to bottom, 
-            #ff0000,
-            #ff0011,
-            #ff0022,
-            #ff0033,
-            #ff0044,
-            #ff0055,
-            #ff0066,
-            #ff0077,
-            #ff0088,
-            #ff0099,
-            #ff00aa,
-            #ff00bb,
-            #ff00cc,
-            #ff00dd,
-            #ff00ee,
-            #ff00ff
-        );
-            color: white;
-            text-align: center;
-            padding: 50px;
-        }
- 
-        h1 {
-            font-size: 36px;
-        }
- 
-        p {
-            font-size: 18px;
-            margin-bottom: 20px;
-        }
-    </style>
+    body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #00ff00, #0000ff);
+        color: white;
+        text-align: center;
+        padding: 50px;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+</style>
 </head>
 <body>
     <h1>Välkommen till Vicas Personliga Sida!</h1>
