@@ -6,7 +6,24 @@
     <style>
     body {
         font-family: Arial, sans-serif;
-        background: linear-gradient(to bottom, #00ff00, #0000ff);
+        background: linear-gradient(to right, 
+            #ff0000,
+            #ff0011,
+            #ff0022,
+            #ff0033,
+            #ff0044,
+            #ff0055,
+            #ff0066,
+            #ff0077,
+            #ff0088,
+            #ff0099,
+            #ff00aa,
+            #ff00bb,
+            #ff00cc,
+            #ff00dd,
+            #ff00ee,
+            #ff00ff
+        );
         color: white;
         text-align: center;
         padding: 50px;
@@ -21,6 +38,7 @@
         margin-bottom: 20px;
     }
 </style>
+
 </head>
 <body>
     <h1>Välkommen till Vicas Personliga Sida!</h1>
