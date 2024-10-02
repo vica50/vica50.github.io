@@ -47,6 +47,8 @@
     <p><a href="https://www.youtube.com/channel/UC5J7iLq-KJJmet_zUt1QOaQ">Youtube</a></p>
     <p><a href="https://www.twitch.tv/vica50">Twitch</a></p>
     <p><a href="https://www.reddit.com/user/Vica500">Reddit</a></p>
+    <p><a href="https://www.icloud.com/iclouddrive/0e18q5PuxNKJA6GLtef2BYthw#skol-ipad">iCloud mapp</a></p>
+    <p><a href="https://drive.google.com/drive/folders/1oUO6pcX3l-bFqaTNv_BmerXpMoOjTO3O">Google Drive mapp</a></p>
     <p>Mitt Discord user id: 948522937919614978 </p>
     <footer>
         <p>Kontakta mig på: vicarosvall@gmail.com</p>
