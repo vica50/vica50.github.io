@@ -49,7 +49,7 @@
     <p><a href="https://www.reddit.com/user/Vica500">Reddit</a></p>
     <p>Mitt Discord user id: 948522937919614978 </p>
     <footer>
-        <p>Kontakta mig på: vicarosvall@gmail.com</p>
+        <p>Kontakta mig på: (mejl borttagen)</p>
     </footer>
 </body>
 </html>
