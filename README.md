@@ -41,7 +41,7 @@
 
 </head>
 <body>
-    <h1>Välkommen till Vicas Personliga Sida!</h1>
+    <h1>[ARKIV] Min gamla hemsida – Varning: föråldrad info från 2022</h1>
     <p>Hej där, jag är Vica (även känd som Vica50). Jag gillar spel som Splatoon och Pikmin.</p>
     <p>Tveka inte att koppla upp dig med mig på mina sociala medieprofiler!</p>
     <p><a href="https://www.youtube.com/channel/UC5J7iLq-KJJmet_zUt1QOaQ">Youtube</a></p>
