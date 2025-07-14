@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vicas Personliga Sida</title>
+    <title>Vicas Personliga Sida (Extremt outdated och skapades nån gång 2023)</title>
     <style>
     body {
         font-family: Arial, sans-serif;
